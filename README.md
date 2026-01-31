@@ -5,6 +5,9 @@ Power BI | Web Scraping | DAX | Data Analytics
 End-to-end cricket performance analysis using web-scraped data from ESPN Cricinfo and Power BI.   
 The project analyzes India vs South Africa ODI performance across batting, bowling, and fielding to uncover player trends, rankings, and performance insights.
 
+### Project Objective
+To analyze India vs South Africa ODI cricket performance using real-world web data and deliver interactive insights through Power BI dashboards.
+
 ### Tools & Technologies
 - Power BI Desktop & Power BI Service
 - Power Query (ETL & Web Scraping)
@@ -33,6 +36,11 @@ The project analyzes India vs South Africa ODI performance across batting, bowli
 - KPI card visuals for quick performance comparison
 - Consistent visual theme across report pages
 
+## How to Use the Dashboard
+- Use the **Player slicer** to analyze individual performance
+- Navigate between **Batting, Bowling, and Fielding** pages
+- KPI cards provide quick comparison across players
+
 ### Business Insights
 - Identified top-performing and low-performing players across disciplines
 - Strike rate categorization highlights aggressive vs consistent batters
@@ -49,14 +57,14 @@ Delivered a production-ready Power BI dashboard enabling interactive evaluation 
 - Power BI & DAX
 - Analytical Storytelling
 
-## Report Snapshot (Power BI Desktop)
+## Power BI Dashboard Preview
 
-### Batting Data Analysis
-![Batting Analysis](images/Batting_Analysis.png)
+### Batting Performance Analysis
+![Batting Dashboard](images/batting_dashboard.png)
 
 ## Bowling Analysis
-![Bowling Analysis](images/Bowling_Analysis.png)
+![Bowling Analysis](images/bowling_dashboard.png)
 
 ## Fielding Analysis
-![Fielding Analysis](images/Fielding_Analysis.png)
+![Fielding Analysis](images/fielding_dashboard.png)
 
