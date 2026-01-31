@@ -36,7 +36,7 @@ To analyze India vs South Africa ODI cricket performance using real-world web da
 - KPI card visuals for quick performance comparison
 - Consistent visual theme across report pages
 
-## How to Use the Dashboard
+### How to Use the Dashboard
 - Use the **Player slicer** to analyze individual performance
 - Navigate between **Batting, Bowling, and Fielding** pages
 - KPI cards provide quick comparison across players
@@ -62,9 +62,9 @@ Delivered a production-ready Power BI dashboard enabling interactive evaluation 
 ### Batting Performance Analysis
 ![Batting Dashboard](images/batting_dashboard.png)
 
-## Bowling Analysis
+### Bowling Analysis
 ![Bowling Analysis](images/bowling_dashboard.png)
 
-## Fielding Analysis
+### Fielding Analysis
 ![Fielding Analysis](images/fielding_dashboard.png)
 
